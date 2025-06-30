@@ -1,0 +1,12 @@
+build/
+*.bin
+*.elf
+*.hex
+*.eep
+*.obj
+*.o
+*.d
+*.a
+*.so
+*.out
+*.log
